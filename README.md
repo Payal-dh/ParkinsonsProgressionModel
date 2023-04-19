@@ -20,6 +20,9 @@ We expect to uncover significant insights into the molecular changes that occur 
 ## Conclusion:
 In conclusion, this project aims to investigate protein and peptide activity in individuals with PD and normal age-matched healthy controls to gain a more comprehensive understanding of PD. By utilizing data science techniques, we hope to uncover significant insights that could lead to the development of treatments that could slow the progression or even cure PD. We believe that this research could make a significant contribution to our understanding of PD and lead to groundbreaking discoveries that could improve the lives of millions of people worldwide.
 
+## Result:
+- According to the Matplotlib plot, six patients have been identified as outliers. The mean score for the Unified Parkinson's Disease Rating Scale (UDRS) falls within the range of 10 to 60 for most patients, whereas the outliers exhibit UDRS scores in the range of 100 to 130. Additionally, it has been observed that Parkinson's disease exhibits seasonality, with patients not on medication showing a different UDRS sum score compared to those on medication.
+
 ### Requirements
 
 Data Model Implementation (25 points)
