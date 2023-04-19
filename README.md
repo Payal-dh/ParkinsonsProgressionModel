@@ -62,7 +62,9 @@ Building of Database (SQL) + Extraction into Python via sqlalchemy (Peter)
 Data Cleaning - CSV join them together, Get rid of Nulls (Kevin) 
 
 Data Exploration (Matplot Library) (Alisha)
-Are there any patients that are outliers?
+### Are there any patients that are outliers?
+Based on the matplotlib plot, we have identified six patients as outliers. It has been observed that the mean UDRS (Unified Parkinson's Disease Rating Scale) score for most patients falls within the range of 10 to 60. However, the outliers had UDRS scores in the range of 100 to 130.
+
 Statistical significance of the mean of protein abundance overtime? 
 
 Feature Selection for Models (Kevin)
